@@ -1,6 +1,7 @@
 require 'pg'
 
 class Bookmark
+<<<<<<< HEAD
 
     attr_reader :url, :title, :id
 
@@ -34,3 +35,11 @@ end
     end
     
 end
+=======
+  def self.all
+    connection = PG.connect(dbname: 'bookmark_manager')
+    result = connection.exec('SELECT * FROM bookmarks')
+    result.map { |bookmark| bookmark['url'] }
+  end
+end
+>>>>>>> c424055ac28e2e2baefe05478e6b3fd424cd1d21

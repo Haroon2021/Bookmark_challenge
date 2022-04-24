@@ -1,7 +1,7 @@
 {
   "RSpec": {
     "coverage": {
-      "/Users/haroonfatih/Projects/Bookmark_challenge/spec/bookmark_spec.rb": {
+      "/Users/meg/Programming/week4/Bookmark_challenge/spec/bookmark_spec.rb": {
         "lines": [
           1,
           1,
@@ -58,7 +58,7 @@
           null
         ]
       },
-      "/Users/haroonfatih/Projects/Bookmark_challenge/spec/features/infrastructure_setup_spec.rb": {
+      "/Users/meg/Programming/week4/Bookmark_challenge/spec/features/infrastructure_setup_spec.rb": {
         "lines": [
           null,
           null,
@@ -68,7 +68,7 @@
           null
         ]
       },
-      "/Users/haroonfatih/Projects/Bookmark_challenge/spec/features/view_bookmarks_spec.rb": {
+      "/Users/meg/Programming/week4/Bookmark_challenge/spec/features/view_bookmarks_spec.rb": {
         "lines": [
           1,
           null,
@@ -103,6 +103,10 @@
         ]
       }
     },
+<<<<<<< HEAD
     "timestamp": 1645207144
+=======
+    "timestamp": 1644947901
+>>>>>>> c424055ac28e2e2baefe05478e6b3fd424cd1d21
   }
 }
