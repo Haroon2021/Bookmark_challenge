@@ -1,3 +1,3 @@
 # this is our config file
-require_relative './bookmark'
+require_relative 'app'
 run BookmarkManager
